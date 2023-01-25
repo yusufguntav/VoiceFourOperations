@@ -1,5 +1,5 @@
 Four operation with voice command
 
-Example:
-User: Two plus four
+Example:<br/>
+User: Two plus four<br/>
 App: 6
